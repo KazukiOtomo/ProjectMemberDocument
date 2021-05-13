@@ -25,6 +25,7 @@
 * Project locationに ”prmn2020s” フォルダへのパスを入れる
 * Finishを押す
 
+![image](https://user-images.githubusercontent.com/67196994/118080340-fa707c00-b3f4-11eb-988e-8a4d070b9610.png)
 
 ### パッケージの作成
 
@@ -45,7 +46,7 @@
 
 今後クラス作成をするときは、各lectureXXパッケージ内に作成すること
 
-![intellij画像](image/lecture01_2.png)
+![image](https://user-images.githubusercontent.com/67196994/118080514-4e7b6080-b3f5-11eb-84c1-2cc4c8b55c24.png)
 
 ## 何もしないプログラム
 
