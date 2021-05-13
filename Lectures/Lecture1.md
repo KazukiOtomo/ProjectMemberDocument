@@ -17,25 +17,25 @@
   * 連絡無しで欠席はしない。
 
 ### プロジェクトの作成
-* Cドライブ直下に ”prmn2020s” フォルダを作る
+* Cドライブ直下に ”prmn2021s” フォルダを作る
 * IntelliJを起動後、Create New Project を選択する
 * 左側のメニューから Java を選択
 * 上部の Project SDK で 11 （この数字は異なるかも） を選択し、Nextを押す
 * もう一度Nextを押す
-* Project locationに ”prmn2020s” フォルダへのパスを入れる
+* Project locationに ”prmn2021s” フォルダへのパスを入れる
 * Finishを押す
 
-![image](https://user-images.githubusercontent.com/67196994/118080340-fa707c00-b3f4-11eb-988e-8a4d070b9610.png)
+![image](https://user-images.githubusercontent.com/67196994/118081830-11b06900-b3f7-11eb-9856-13c1234c2568.png)
 
 ### パッケージの作成
 
-* 左側のメニューの “prmn2020s” を開く
+* 左側のメニューの “prmn2021s” を開く
 * ”src” フォルダを右クリックし、New > Packageを選択
 * package nameには、”lecture01”と記入しOKを押す
 
 今後特に指示が無い場合は ”lectureXX” の形式で作成する。
 
-例: 第3回講義では、 prmn2020s/lecture03/
+例: 第3回講義では、 prmn2021s/lecture03/
 
 
 ### クラスの作成
@@ -46,7 +46,7 @@
 
 今後クラス作成をするときは、各lectureXXパッケージ内に作成すること
 
-![image](https://user-images.githubusercontent.com/67196994/118080514-4e7b6080-b3f5-11eb-84c1-2cc4c8b55c24.png)
+![image](https://user-images.githubusercontent.com/67196994/118081976-576d3180-b3f7-11eb-80fa-5a453cf7334a.png)
 
 ## 何もしないプログラム
 
