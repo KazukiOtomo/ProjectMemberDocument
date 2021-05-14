@@ -12,6 +12,8 @@
 
 [・Lecture6：例外処理](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture6.md)
 
+[・Lecture7：最後のまとめ(作成中...)]
+
 @質問や意見はプルリク飛ばしてby大友
 
 
