@@ -10,6 +10,10 @@
 
 [・Lecture5：継承](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture5.md)
 
+[・Lecture6：例外処理](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture6.md)
+
+
+
 
 
 
