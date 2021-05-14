@@ -1,4 +1,4 @@
-# 資料リンク一覧(; ･`д･´)
+# プロメン2021s資料リンク一覧(; ･`д･´)
 
 [・Lecture1：チュートリアル](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture1.md)
 
@@ -11,6 +11,8 @@
 [・Lecture5：継承](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture5.md)
 
 [・Lecture6：例外処理](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture6.md)
+
+@質問や意見はプルリク飛ばしてby大友
 
 
 
