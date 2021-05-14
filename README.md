@@ -8,4 +8,8 @@
 
 [・Lecture4：アクセス修飾子とカプセル化](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture4.md)
 
+[・Lecture5：継承](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture5.md)
+
+
+
 
