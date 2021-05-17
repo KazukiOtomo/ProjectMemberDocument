@@ -1,10 +1,11 @@
 package lecture05;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Exercise5_7 {
     public static void main(String[] args) {
-        ArrayList<Insect> InsectList = new ArrayList<>();
+        List<Insect> InsectList = new ArrayList<>();
 
         InsectList.add(new Insect());
         InsectList.add(new Butterfly());
