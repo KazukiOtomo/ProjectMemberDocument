@@ -6,13 +6,12 @@ public class Exercise3_3 {
     public static void main(String[] args) {
         System.out.println("1つ目の整数を入力してください:");
         Scanner scanner = new Scanner(System.in);
-        String num1 = scanner.nextLine();
-        int number1 = Integer.parseInt(num1);
+        int number1 = scanner.nextInt();
+        scanner.next();
 
         System.out.println("2つ目の整数を入力してください:");
-        String num2 = scanner.nextLine();
-        int number2 = Integer.parseInt(num2);
-
+        int number2 = scanner.nextInt();
+        scanner.next();
 
         int sum = number1 + number2;
 
