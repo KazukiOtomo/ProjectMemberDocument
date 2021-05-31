@@ -3,7 +3,7 @@ package lecture02;
 public class Engine {
     int rpm;
 
-    Engine(int rpm) {
+    public Engine(int rpm) {
         this.rpm = rpm;
     }
 
