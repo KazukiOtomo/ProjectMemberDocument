@@ -12,7 +12,8 @@
 
 [・Lecture6：例外処理](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture6.md)
 
-[・Lecture7：最後のまとめ(作成中...)]
+[・Lecture7：最後のまとめ](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture7.md)
+<br>封印解除します。とても難しいです。必須ではありません。
 
 @質問や意見はプルリク飛ばしてもろてby大友
 
