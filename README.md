@@ -1,4 +1,4 @@
-# プロメン2021s資料リンク一覧(; ･`д･´)
+# プロメン2021s資料リンク一覧( ;∀;)
 
 [・Lecture1：チュートリアル](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture1.md)
 
