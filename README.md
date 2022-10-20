@@ -15,7 +15,7 @@
 [・Lecture7：最後のまとめ](https://github.com/KazukiOtomo/ProjectMemberDocument/blob/main/Lectures/Lecture7.md)
 <br>　封印解除します。とても難しいです。必須ではありません。
 
-@質問や意見はプルリク飛ばしてもろてby大友
+@質問や意見はプルリク飛ばしてもろて
 
 
 
